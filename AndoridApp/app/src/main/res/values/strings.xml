@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">EsameAndroid_LetiziaGimmorcaro</string>
+
+    <!-- TESTI -->
+    <string name="titleApp">Sistema informativo Steve Jobs</string>
+    <string name="login">login</string>
+    <string name="password">password</string>
+    <string name="listStudent">Elenco Studenti</string>
+    <string name="title">Scheda Studente</string>
+    <string name="name">Nome</string>
+    <string name="macBook">macBook</string>
+    <string name="checkbox">in Comodato</string>
+    <string name="buttonSave">Save</string>
+
+    <!-- BUTTON -->
+    <string name="loginBtn">Go</string>
+</resources>
